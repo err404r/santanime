@@ -1,0 +1,45 @@
+[
+    {
+        "name":"eveight",
+        "region_id":0
+    }, {
+        "name":"Мао",
+        "region_id":1
+    }, {
+        "name":"Алдар",
+        "region_id":0
+    }, {
+        "name":"Ёми",
+        "region_id":1
+    }, {
+        "name":"Ната",
+        "region_id":2
+    }, {
+        "name":"Вечяслав Рубан",
+        "region_id":0
+    }, {
+        "name":"Сис",
+        "region_id":3
+    }, {
+        "name":"404",
+        "region_id":3
+    }, {
+        "name":"Лук",
+        "region_id":3
+    }, {
+        "name":"Ука",
+        "region_id":4
+    }, {
+        "name":"Пирокот",
+        "region_id":1
+    }, {
+        "name":"Дерево",
+        "region_id":0
+    }, {
+        "name":"Даша",
+        "region_id":5
+    }, {
+        "name":"Маг",
+        "region_id":3
+    }
+]
